@@ -4,6 +4,12 @@ A thin always-on-top CPU / RAM / GPU strip for **Windows 10 and 11**.
 
 Linux and macOS already ship usable system monitors. Windows does not give you a small, always-visible bar without opening Task Manager. That is why this exists.
 
+![sysmonbar along the top of the desktop](screenshots/mainView.png)
+
+![Performance settings](screenshots/settings1.png)
+![Graph settings](screenshots/settings2.png)
+![Window settings](screenshots/settings3.png)
+
 **License:** [MIT](sysmonbar/LICENSE). No warranty.
 
 This is a **Windows** app (Win32 PDH + GLFW + Dear ImGui). It is not a Linux `/proc` monitor. On Kali/Parrot use `btop`, `htop`, or `conky` instead.
@@ -67,6 +73,7 @@ Exclusive-fullscreen games can still cover any overlay. That is an OS limit, not
 
 ```
 ├── README.md
+├── screenshots/
 └── sysmonbar/
     ├── CMakeLists.txt
     ├── LICENSE
