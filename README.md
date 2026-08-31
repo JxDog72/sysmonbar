@@ -82,5 +82,3 @@ Exclusive-fullscreen games can still cover any overlay. That is an OS limit, not
         ├── settings.cpp   %LOCALAPPDATA%\sysmonbar\settings.ini
         └── sysmon.cpp     PDH / NVML collectors
 ```
-
-Do not commit the `build/` folder. It contains machine-specific paths.
