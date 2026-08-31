@@ -10,7 +10,7 @@ Linux and macOS already ship usable system monitors. Windows does not give you a
 ![Graph settings](screenshots/settings2.png)
 ![Window settings](screenshots/settings3.png)
 
-**License:** [MIT](sysmonbar/LICENSE). No warranty.
+**License:** [MIT](sysmonbar/LICENSE). 
 
 This is a **Windows** app (Win32 PDH + GLFW + Dear ImGui). It is not a Linux `/proc` monitor. On Kali/Parrot use `btop`, `htop`, or `conky` instead.
 
