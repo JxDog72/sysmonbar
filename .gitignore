@@ -1,3 +1,6 @@
 sysmonbar/build/
 .vs/
 *.user
+
+# Promo shots live on the `screenshots` branch for the GitHub README only.
+/screenshots/
