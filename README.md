@@ -3,6 +3,7 @@
 A thin always-on-top CPU / RAM / GPU strip for **Windows 10 and 11**.
 
 ![sysmonbar along the top of the desktop](screenshots/mainView.png)
+
 Linux and macOS already ship usable system monitors. Windows does not give you a small, always-visible bar without opening Task Manager. That is why this exists.
 
 ![Performance settings](screenshots/settings1.png)
